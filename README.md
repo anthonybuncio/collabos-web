@@ -1,3 +1,9 @@
+`https://api.github.com/search/repositories?q=topic:<topic>`
+https://api.github.com/search/repositories?q=topic:javascript
+
+`https://api.github.com/search/repositories?q=language:<language>`
+https://api.github.com/search/repositories?q=language:typescript
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
