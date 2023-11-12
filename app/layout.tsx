@@ -6,7 +6,7 @@ import Header from "./_components/Header";
 const customFont = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CollabOS - Code collaboration made easy",
+  title: "CollabOS — Developer Matchmaking",
   description: "Code collaboration made easy",
 };
 

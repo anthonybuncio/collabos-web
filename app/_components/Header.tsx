@@ -8,7 +8,12 @@ const Header = () => {
           <div className="md:flex md:items-center md:gap-12">
             <a className="flex items-center text-xl" href="/">
               <span className="sr-only">Home</span>
-              <Logo className="h-12" />
+              {/* <Logo className="h-12 w-12" /> */}
+              <img
+                src="https://img.icons8.com/pulsar-color/96/operating-system.png"
+                alt="operating-system"
+                className="h-12 w-12 mr-2"
+              />
               CollabOS
             </a>
           </div>
